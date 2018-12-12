@@ -31,4 +31,4 @@ Firbase friendly chat app https://github.com/firebase/friendlychat-android
 현혜진 (hyejinhyun): firebase chat app 적용 및 사용자 인터페이스 개발, ppt 제작, Readme 파일 작성, 최종 발표 대본 초안
 
 # 라이센스 정보
-See (docs/LICENSE.md), Apache License 2.0
+See +[license]: ./LICENSE, Apache License 2.0
