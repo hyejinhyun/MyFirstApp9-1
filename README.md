@@ -8,7 +8,15 @@
 
 ## 팀원 이름 (Github ID)
 
-소민진 (kzxwer)  현혜진 (hyejinhyun)  이연정 (LeeYunJung)  강수지 (szfrost)  손수민 (GODSOOMIN)
+소민진 (kzxwer)
+
+현혜진 (hyejinhyun)
+
+이연정 (LeeYunJung)
+
+강수지 (szfrost)
+
+손수민 (GODSOOMIN)
 
 ## 맡은 역할
 강수지: UI만들기, ppt제작, 발표 대본 작성
